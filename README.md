@@ -5,6 +5,6 @@ Character, who hasn't heard from their grandmother for years, receives a strange
 
 **🎬 Trailer Link:** [Watch the Trailer](https://youtu.be/3fqvRJCP1IA)
 
-**🎯 Purpose of Development:** This game has been developed as a part of a Computer Engineering graduation project.
+**🎯 Purpose of Development:** This game has been developed as a part of a Computer Engineering final project.
 
 📌 Please note that this repository only contains the source code.
